@@ -1,28 +1,61 @@
-Lily Smirnova Junior Frontend Developer
+rsschool-cv
+**********
+# Lily Smirnova
+## Junior Frontend Developer
 
-Contact Information: e-mail: mrs.esmirn@gmil.com telegram: lily_smirnova GitHub: https://github.com/LilySmirn LeetCode: https://leetcode.com/u/LilySmirn/ Behance: https://www.behance.net/smirnova_lily
+## Contact Information:
+***e-mail:*** mrs.esmirn@gmil.com
 
-About: With a technical background as an engineer in industrial electronics, I have a deep understanding of technical processes and aspects. Also, I possess extensive experience as a UI/UX designer, having successfully created designs for websites and mobile applications. This has given me a comprehensive vision of user interaction with products. Additionally, I have experience working with developers, which helps me effectively translate design concepts into functional solutions and ensures the successful implementation of projects.
+***telegram:*** lily_smirnova
 
-Skills:
+***[GitHub](https://github.com/LilySmirn)***
 
-HTML, CSS
-JavaScript
-Git, GitHub
-MSSQL, PostgreSQL
-Figma
-Adobe illustrator, Photoshop
-Code Example:
+***[LeetCode](https://leetcode.com/u/LilySmirn/)***
 
-Experience:
+***[Behance](https://www.behance.net/smirnova_lily)*** 
 
-Education:
+**********
+## About:
+With a technical background as an engineer in industrial electronics, I have a deep understanding of technical processes and aspects.
 
-HTML Academy
-learnjavascript.ru
-RS school course (in progress)
-Languages:
+Also, I possess extensive experience as a UI/UX designer, having successfully created designs for websites and mobile applications. This has given me a comprehensive vision of user interaction with products.
 
-Russian (native)
-English (intermediate)
-Spanish (pre-intermediate)
+Additionally, I have experience working with developers, which helps me effectively translate design concepts into functional solutions and ensures the successful implementation of projects.
+**********
+## Skills:
+
+* HTML, CSS
+* JavaScript
+* Git, GitHub
+* MSSQL, PostgreSQL
+* Figma
+* Adobe illustrator, Photoshop
+**********
+## Code Example:
+*LEETCODE:  11. Container With Most Water*
+```
+while(left < right) {
+        let temp = Math.min(height[left], height[right]) * (right - left);
+        maxAmount = Math.max(maxAmount, temp);
+
+        if (height[left] < height[right]) {
+            left++;
+        } else {
+            right--;
+        }
+    }
+```
+**********
+## Experience:
+**********
+## Education:
+
+* HTML Academy
+* learnjavascript.ru
+* RS school course (in progress)
+**********
+## Languages:
+
+* Russian (native)
+* English (intermediate)
+* Spanish (pre-intermediate)
