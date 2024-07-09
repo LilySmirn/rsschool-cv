@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://lilysmirn.github.io/rsschool-cv/shelter
+https://lilysmirn.github.io/rsschool-cv/cv
